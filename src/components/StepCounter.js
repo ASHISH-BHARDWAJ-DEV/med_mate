@@ -36,7 +36,7 @@ const StepCounter = () => {
       <p>Goal: 10,000 steps</p>
       <div className="water-controls">
         <button className="btn" onClick={addSteps}>Add 100 Steps</button>
-        <button className="btn" onClick={resetSteps}>Reset</button>
+        <button className="btn btn-danger" onClick={resetSteps}>Reset</button>
       </div>
     </div>
   );
