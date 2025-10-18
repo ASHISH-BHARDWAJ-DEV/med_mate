@@ -8,7 +8,7 @@
     font-family: 'Arial', sans-serif;
     background-color: #f5f7fa;
     color: #333;
-    line-height: 1.6;
+    line-height: 1.55;
   }
   
   .App {
@@ -76,11 +76,11 @@
     width: 250px;
     background: #34495e;
     color: white;
-    padding: 2rem 0;
+    padding: 70px 0 0;
     position: fixed;
     left: 0;
-    top: 70px;
-    height: calc(100vh - 120px);
+    top: 0px;
+    height: auto;
     overflow-y: auto;
   }
   
