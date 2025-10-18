@@ -225,6 +225,7 @@ body {
   color: white;
   cursor: pointer;
   transition: background 0.3s;
+  margin-right: 30px;
 }
 
 .btn:hover {
